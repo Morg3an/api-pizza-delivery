@@ -254,11 +254,17 @@ You can now proceed to interact with the API endpoints.
 The API uses standard HTTP status codes to indicate the success or failure of an API request. Here are some common status codes and their meanings:
 
 **200 OK**: The request was successful
+
 **201 Created**: The request was successful and a new resource was created.
+
 **400 Bad Request**: The server could not understand the request due to invalid syntax.
+
 **401 Unauthorized**: The client must authenticate itself to get the requested response.
+
 **403 Forbidden**: The client does not have access rights to the content.
+
 **404 Not Found**: The server can not find the requested resource.
+
 **500 Internal Server Error**: The server has encountered a situation it doesn't know how to handle.
 
 Make sure to check the response body for additional details about the error.
@@ -267,11 +273,15 @@ Make sure to check the response body for additional details about the error.
 To ensure the security of the API and its data, consider the following measures:
 
 **Authentication and Authorization**: Use token-based authentication to ensure only authorized users can access the API.
+
 **Data Validation**: Validate all incoming data to prevent malicious inputs and ensure data integrity.
 
 **Encryption**: Use HTTPS to encrypt data in transit. Sensitive information, such as passwords, should be hashed before storing.
+
 **Rate Limiting**: Implement rate limiting to prevent abuse and denial-of-service attacks.
+
 **Error Handling**: Avoid exposing stack traces and internal server information in error messages.
+
 **Security Headers**: Use security headers like ```Content-Security-Policy```, ```X-Content-Type-Options```, and ```X-Frame-Options``` to protect against common web vulnerabilities.
 
 1. **Fork the Repository:**
@@ -309,6 +319,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Contact Information
 For any questions or concerns, please contact me:
+
     - Email: mulweyemorgan12@gmail.com
+
     - GitHub Issues: GitHub Issues
-We appreciate your feedback and contributions!# pizza-delivery-api
+
+We appreciate your feedback and contributions!
