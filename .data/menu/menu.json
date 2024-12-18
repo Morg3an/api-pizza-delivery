@@ -1,0 +1,6 @@
+[
+    { "id": "1", "name": "Margherita Pizza", "description": "Classic pizza with tomato and mozzarella", "price": 10.99 },
+    { "id": "2", "name": "Pepperoni Pizza", "description": "Spicy pepperoni with mozzarella cheese", "price": 12.99 },
+    { "id": "3", "name": "Veggie Pizza", "description": "A delicious mix of vegetables", "price": 11.49 },
+    { "id": "4", "name": "BBQ Chicken Pizza", "description": "Chicken, BBQ sauce, and mozzarella cheese", "price": 13.99 }
+]
