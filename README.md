@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed on your system:
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pizza-delivery-api.git
+   git clone https://github.com/Morg3an/pizza-delivery-api.git
    cd pizza-delivery-api
     ```
 
@@ -289,7 +289,7 @@ To ensure the security of the API and its data, consider the following measures:
 
 2. **Clone the Forked Repository:**
     ```bash
-        git clone https://github.com/yourusername/pizza-delivery-api.git
+        git clone https://github.com/Morg3an/pizza-delivery-api.git
         cd pizza-delivery-api
     ```
 
